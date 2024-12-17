@@ -1,0 +1,10 @@
+{
+  "Name": "Dady Cool",
+  "Price": 20,
+  "Category": "Books",
+  "Inventory": "20",
+  "Discount": "20%",
+  "Weight": 20,
+  "Color": "Black",
+  "Manufacture": "Books On Demand"
+  }
